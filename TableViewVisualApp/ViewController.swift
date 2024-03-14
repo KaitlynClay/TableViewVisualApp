@@ -9,8 +9,6 @@ import UIKit
 
 class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSource {
     
-//    ADD and then LINK a TableView and Cell? to the code with the name petTable (cell identifier)
-    
     let petArray = ["cat", "dog", "parakeet", "parrot", "canary", "finch", "tropical fish", "goldfish", "sea horses", "hamster", "gerbil", "rabbit", "turtle", "snake", "lizard", "hermit crab"]
     
     override func viewDidLoad() {
